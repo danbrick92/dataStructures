@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8be11de-4b03-46b4-a408-ccc34b67c11f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm Course/CheckPSUGV.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm Course/QuickSort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm Course/RandomizedContraction.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm Course/StrongConnectedComponents.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm Course/mincut.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm Course/numpyFun.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm Course/quicksort.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm Course/scc.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm Course/scc_small.txt" />
-    </list>
+    <list default="true" id="c8be11de-4b03-46b4-a408-ccc34b67c11f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
